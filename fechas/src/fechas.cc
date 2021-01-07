@@ -4,7 +4,7 @@
  * Grado en Ingeniería Informática
  * Informática Básica
  *
- * @author Ginés Cruz Chávez
+ * @author Vicente Medina Julián 
  * @date 22.dec.2020
  * @brief Dada una fecha, un número y un fichero, escribe en el fichero las N
  * siguientes fechas en orden cronológico
